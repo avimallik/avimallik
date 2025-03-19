@@ -50,3 +50,10 @@
 </div>
 
 ###
+
+<h2 align="left">My Journey</h2>
+
+###
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avimallik&layout=compact&theme=tokyonight&hide=css&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avimallik&show_icons=true&theme=tokyonight)
