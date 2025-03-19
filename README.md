@@ -7,6 +7,7 @@
 <div align="center">  
 </div>
 
+<h4>Github Stats</h4>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avimallik&layout=compact&theme=tokyonight&hide=html,css)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avimallik&show_icons=true&theme=tokyonight)
 
