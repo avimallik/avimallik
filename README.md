@@ -4,10 +4,11 @@
 <h4>Android Developer and Hobbyist Researcher</h4> <br>
 <p>As a professional Software Developer I have over three years of experience in Agile Android Application Development and 1+ year in Web Application Development. Beyond software development, I actively engage in research, focusing on Internet of Things (IoT), Embedded Systems, and Robotics. My work has been published in prominent IoT journals, and I have also contributed to projects in Data Science and Machine Learning. I specialize in robust and scalable software architecture, including MVVM and MVC for Android development and MVT for Flask-based web applications. With a good problem-solving mindset, I thrive in collaborative environments and enjoy working with cross-functional teams. I am passionate about both academic research and industry-driven innovation, continuously exploring new technologies to bridge the gap between theoretical advancements and real-world applications.</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">  
 </div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avimallik&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avimallik&show_icons=true&theme=tokyonight)
 
 ###
 
