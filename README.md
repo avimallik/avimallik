@@ -1,5 +1,7 @@
 <h1 align="left">Hello 👋, I am Arunav Mallik Avi</h1>
 
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/avimallik&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
 ###
 
 <p align="left">As a professional Software Developer I have over three years of experience in Agile Android Application Development and 1+ year in Web Application Development. Beyond software development, I actively engage in research, focusing on Internet of Things (IoT), Embedded Systems, and Robotics. My work in IoT and Embedded Systems domains has been published in few journals, and I have also contributed to projects in Data Science and Machine Learning. I specialize in robust and scalable software architecture, particularly in MVVM and MVP for Android development and Factory-Pattern for Flask-based web applications. With a good problem-solving mindset, I thrive in collaborative environments and enjoy working with cross-functional teams. I am passionate about both academic research and industry-driven innovation, continuously exploring new technologies to bridge the gap between theoretical advancements and real-world applications.</p>
