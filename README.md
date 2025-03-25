@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋, I am Arunav Mallik Avi</h1>
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/avimallik&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![](https://profile-counter.glitch.me/avimallik/count.svg)
 
 ###
 
